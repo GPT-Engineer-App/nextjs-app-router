@@ -1,16 +1,16 @@
 import React from "react";
 
-const Index = () => {
+const Contact = () => {
   return (
     <div className="h-screen w-screen flex items-center justify-center">
       <div>
-        <h1 className="text-3xl text-center">Welcome to Our Website</h1>
+        <h1 className="text-3xl text-center">Contact Us</h1>
         <p className="text-center">
-          This is the home page. Use the navigation bar to explore other pages.
+          Get in touch with us through the contact form.
         </p>
       </div>
     </div>
   );
 };
 
-export default Index;
+export default Contact;
