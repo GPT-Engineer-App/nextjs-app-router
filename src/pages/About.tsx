@@ -1,6 +1,6 @@
-import React from "react";
+import React, { FC } from "react";
 
-const About = () => {
+const About: FC = () => {
   return (
     <div className="h-screen w-screen flex items-center justify-center">
       <div>
